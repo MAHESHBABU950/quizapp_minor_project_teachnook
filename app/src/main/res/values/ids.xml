@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="activity_main" type="id" />
+    <item name="editName" type="id" />
+    <item name="total_question" type="id" />
+</resources>
